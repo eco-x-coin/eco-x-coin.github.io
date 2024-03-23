@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[197],{8931:function(e,n,l){l.r(n);var s=l(5893),r=l(2671),t=l(267),c=l(5604),u=l(9917),i=l(5145);l(3110),n.default=e=>{let{children:n}=e,l=u.clusterApiUrl("devnet"),d=[new i.O];return(0,s.jsx)(r.U,{endpoint:l,children:(0,s.jsx)(t.n,{wallets:d,children:(0,s.jsx)(c.s,{children:n})})})}}}]);
